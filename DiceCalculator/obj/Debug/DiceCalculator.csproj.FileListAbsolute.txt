@@ -1,0 +1,10 @@
+F:\Visual Studio Projects\DiceCalculator\DiceCalculator\DiceCalculator\bin\Debug\DiceCalculator.exe.config
+F:\Visual Studio Projects\DiceCalculator\DiceCalculator\DiceCalculator\bin\Debug\DiceCalculator.exe
+F:\Visual Studio Projects\DiceCalculator\DiceCalculator\DiceCalculator\bin\Debug\DiceCalculator.pdb
+F:\Visual Studio Projects\DiceCalculator\DiceCalculator\DiceCalculator\obj\Debug\DiceCalculator.csprojAssemblyReference.cache
+F:\Visual Studio Projects\DiceCalculator\DiceCalculator\DiceCalculator\obj\Debug\DiceCalculator.diceCalc.resources
+F:\Visual Studio Projects\DiceCalculator\DiceCalculator\DiceCalculator\obj\Debug\DiceCalculator.Properties.Resources.resources
+F:\Visual Studio Projects\DiceCalculator\DiceCalculator\DiceCalculator\obj\Debug\DiceCalculator.csproj.GenerateResource.cache
+F:\Visual Studio Projects\DiceCalculator\DiceCalculator\DiceCalculator\obj\Debug\DiceCalculator.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\DiceCalculator\DiceCalculator\DiceCalculator\obj\Debug\DiceCalculator.exe
+F:\Visual Studio Projects\DiceCalculator\DiceCalculator\DiceCalculator\obj\Debug\DiceCalculator.pdb
