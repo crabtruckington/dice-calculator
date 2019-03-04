@@ -7,3 +7,4 @@ F:\Visual Studio Projects\DiceCalculator\DiceCalculator\DiceCalculator\obj\Relea
 F:\Visual Studio Projects\DiceCalculator\DiceCalculator\DiceCalculator\obj\Release\DiceCalculator.csproj.CoreCompileInputs.cache
 F:\Visual Studio Projects\DiceCalculator\DiceCalculator\DiceCalculator\obj\Release\DiceCalculator.exe
 F:\Visual Studio Projects\DiceCalculator\DiceCalculator\DiceCalculator\obj\Release\DiceCalculator.pdb
+F:\Visual Studio Projects\DiceCalculator\DiceCalculator\DiceCalculator\obj\Release\DiceCalculator.csprojAssemblyReference.cache
